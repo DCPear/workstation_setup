@@ -1,0 +1,1 @@
+choco install intellijidea-community -y

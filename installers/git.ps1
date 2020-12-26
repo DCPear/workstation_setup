@@ -1,0 +1,1 @@
+choco install git -y --params "/NoAutoCrlf /GitAndUnixToolsOnPath /NoGitLfs /SChannel"
